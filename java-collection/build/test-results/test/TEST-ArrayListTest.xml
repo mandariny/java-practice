@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ArrayListTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-04-12T07:53:13" hostname="DESKTOP-DOGVPUB" time="0.141">
+  <properties/>
+  <testcase name="clone의 shallow copy 변경은 참조하는 모든 리스트에 반영됨" classname="ArrayListTest" time="0.141"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
